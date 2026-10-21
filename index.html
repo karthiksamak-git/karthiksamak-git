@@ -1,1 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karthik Samak – Dynamic Profile</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/cal-heatmap@4.3.0/dist/cal-heatmap.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cal-heatmap@4.3.0/dist/cal-heatmap.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Karthik Samak</h1>
+    <p class="tagline">Full‑stack developer • Open‑source enthusiast • Gamer at heart</p>
+  </header>
 
+  <section class="about">
+    <h2>About Me</h2>
+    <p>🔭 Currently working on cutting‑edge web &amp; data solutions.<br/>
+       🤝 Looking to collaborate on open‑source projects.<br/>
+       🌱 Learning advanced graphics pipelines (WebGL, Three.js).<br/>
+       💬 Ask me about Python, JavaScript, and data visualisation.
+    </p>
+  </section>
+
+  <section class="socials">
+    <h2>Socials</h2>
+    <p>
+      <a href="https://instagram.com/karthik_samak" target="_blank">Instagram</a> |
+      <a href="https://linkedin.com/in/karthik-samak" target="_blank">LinkedIn</a> |
+      <a href="mailto:nskarthiksamak@gmail.com">Email</a>
+    </p>
+  </section>
+
+  <section class="tech-stack">
+    <h2>Tech Stack</h2>
+    <div class="badges">
+      <!-- Badges copied from README -->
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/javascript-33330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+      <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <!-- Add more as needed -->
+    </div>
+  </section>
+
+  <section class="github-stats">
+    <h2>GitHub Stats</h2>
+    <div class="stats-images">
+      <img src="https://github-readme-stats.shion.dev/api?username=karthiksamak-git&theme=dark" alt="GitHub stats" />
+      <img src="https://streak-stats.demolab.com/?user=karthiksamak-git&theme=dark" alt="Streak" />
+    </div>
+  </section>
+
+  <section class="heatmap">
+    <h2>Gamified Contribution Heatmap</h2>
+    <div id="cal-heatmap"></div>
+  </section>
+
+  <footer>
+    <p>© 2026 Karthik Samak – all rights reserved.</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script>
+    // Initialise caloric heatmap once data is available
+    document.addEventListener('DOMContentLoaded', function () {
+      if (window.contributions) {
+        const cal = new CalHeatMap();
+        cal.paint({
+          itemSelector: '#cal-heatmap',
+          domain: 'month',
+          subDomain: 'day',
+          data: window.contributions,
+          start: new Date(new Date().getFullYear(), 0, 1),
+          cellSize: 15,
+          cellPadding: 3,
+          legend: [0, 2, 5, 10, 20],
+          legendColors: {
+            min: '#2E2E2E',
+            max: '#00FFAA'
+          },
+          tooltip: true,
+          displayLegend: true,
+        });
+      }
+    });
+  </script>
+</body>
+</html>

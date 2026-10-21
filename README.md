@@ -209,28 +209,13 @@ Open To  : Internships · Projects · Collaboration
 
 <div align="center">
 
-<!-- Row 1: Colourful contribution calendar (orange-fire palette) -->
-<img src="https://ghchart.rshah.org/ff6b6b/karthiksamak-git" alt="Contribution Heatmap – Fire" width="48%"/>
+<img src="https://ghchart.rshah.org/ff6b6b/karthiksamak-git" alt="Contribution Heatmap – Fire" width="49%"/>
 &nbsp;
-<img src="https://ghchart.rshah.org/a29bfe/karthiksamak-git" alt="Contribution Heatmap – Purple" width="48%"/>
+<img src="https://ghchart.rshah.org/a29bfe/karthiksamak-git" alt="Contribution Heatmap – Purple" width="49%"/>
 
 <br/><br/>
 
-<!-- Row 2: Tokyo Night neon activity graph -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:a29bfe&height=30&text=Tokyo+Night+Activity&fontSize=13&fontColor=ffffff&animation=fadeIn" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&theme=tokyo-night&hide_border=true&radius=8&custom_title=Contribution+Activity+%E2%80%93+Tokyo+Night" width="100%"/>
-
-<br/>
-
-<!-- Row 3: Dracula vivid activity graph -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:ff79c6&height=30&text=Dracula+Activity&fontSize=13&fontColor=ffffff&animation=fadeIn" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&theme=dracula&hide_border=true&radius=8&custom_title=Contribution+Activity+%E2%80%93+Dracula" width="100%"/>
-
-<br/>
-
-<!-- Row 4: Custom neon activity graph -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:ff9f43&height=30&text=Neon+Activity&fontSize=13&fontColor=ffffff&animation=fadeIn" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&bg_color=0d1117&color=ffd93d&line=ff9f43&point=ff6b6b&area=true&area_color=1a0a00&hide_border=true&radius=8&custom_title=Contribution+Activity+%E2%80%93+Neon+Sunset" width="100%"/>
+<img src="https://ghchart.rshah.org/00ffaa/karthiksamak-git" alt="Contribution Heatmap – Cyan" width="100%"/>
 
 </div>
 
@@ -238,21 +223,7 @@ Open To  : Internships · Projects · Collaboration
 
 ---
 
-<!-- ══════════════════════════════════════════════ TROPHIES ══════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karthiksamak-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
----
 
 <!-- ══════════════════════════════════════════════ EDUCATION ══════════════════════════════════════════════ -->
 

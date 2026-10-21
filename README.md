@@ -203,19 +203,23 @@ Open To  : Internships · Projects · Collaboration
 
 <!-- ══════════════════════════════════════════════ HEATMAP ══════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,50:ffd93d,100:00ffaa&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,33:ffd93d,66:a29bfe,100:00ffaa&height=4"/>
 
 ## Heatmap
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/ff6b6b/karthiksamak-git" alt="Contribution Heatmap – Fire" width="49%"/>
-&nbsp;
-<img src="https://ghchart.rshah.org/a29bfe/karthiksamak-git" alt="Contribution Heatmap – Purple" width="49%"/>
+<!-- Full-width contribution area chart -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthiksamak-git&theme=dracula" width="100%"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00ffaa/karthiksamak-git" alt="Contribution Heatmap – Cyan" width="100%"/>
+<!-- Row of colourful stat/chart cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthiksamak-git&theme=radical" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthiksamak-git&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthiksamak-git&theme=dracula&utcOffset=5.5" width="32%"/>
 
 </div>
 

@@ -1,237 +1,237 @@
 <div align="center">
 
-<!--──────────────────── ANIMATED HEADER ────────────────────-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=N%20S%20KARTHIK%20SAMAK&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Cloud%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=00ffaa" width="100%"/>
-
-<!--──────────────────── TYPING SVG ────────────────────-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FFAA&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Android+%2B+GenAI+Engineer;Salesforce+%26+Cloud+Practitioner;RAG+%2F+LLM+Application+Builder;Open-Source+Contributor)](https://git.io/typing-svg)
-
-<br/>
-
-<!--──────────────────── CONTACT SHIELDS ────────────────────-->
-[![Email](https://img.shields.io/badge/nskarthiksamak%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nskarthiksamak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/karthik--samak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-samak)
-[![GitHub](https://img.shields.io/badge/karthiksamak--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiksamak-git)
-[![Phone](https://img.shields.io/badge/+91--9980877029-00FFAA?style=for-the-badge&logo=whatsapp&logoColor=black)](tel:+919980877029)
-
-<br/>
-
-<!--──────────────────── PROFILE VIEWS + FOLLOWERS ────────────────────-->
-![Profile Views](https://komarev.com/ghpvc/?username=karthiksamak-git&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/karthiksamak-git?style=for-the-badge&color=00ffaa&labelColor=0d1117&label=FOLLOWERS)](https://github.com/karthiksamak-git)
+<!-- ████████████████ ANIMATED BANNER ████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ffaa,100:00bcd4&height=230&section=header&text=N%20S%20Karthik%20Samak&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Cloud%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=19&descColor=00ffaa"/>
 
 </div>
 
+<!-- ████████████████ TYPING ANIMATION ████████████████ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=600&color=00FFAA&center=true&vCenter=true&multiline=false&width=800&lines=Building+AI-Powered+Applications;Full-Stack+Web+%26+Android+Developer;Salesforce+%26+Cloud+Platform+Engineer;RAG+%7C+LLM+%7C+Vector+DB+Practitioner;Code.+Build.+Ship.+Repeat.)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ████████████████ BADGES ROW ████████████████ -->
+<div align="center">
+<br/>
+
+[![Email](https://img.shields.io/badge/Gmail-nskarthiksamak-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nskarthiksamak@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karthik--samak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-samak)
+[![GitHub](https://img.shields.io/badge/GitHub-karthiksamak--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiksamak-git)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9980877029-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919980877029)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=karthiksamak-git&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/karthiksamak-git?style=for-the-badge&color=00ffaa&labelColor=0d1117&label=FOLLOWERS)](https://github.com/karthiksamak-git)
+[![GitHub Stars](https://img.shields.io/github/stars/karthiksamak-git?style=for-the-badge&color=00ffaa&labelColor=0d1117&label=STARS)](https://github.com/karthiksamak-git)
+
+</div>
+
+<br/>
+
 ---
 
-<!--──────────────────── ABOUT ME ────────────────────-->
-## About Me
+<!-- ████████████████ ABOUT ME + GIF ████████████████ -->
 
-<img align="right" width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&area_color=003322&hide_border=true&radius=8"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Computer Science undergraduate in the final year with strong foundations in programming, cloud technologies, AI, and software development. Proficient in Java, Python, Kotlin, and JavaScript. Experienced in building scalable web apps, Android applications, and AI-powered systems.
+### About Me
 
-Passionate about DevOps, cloud computing, generative AI, and modern software architecture. Always exploring ways to bridge the gap between engineering and real-world impact.
+```yaml
+Name      : N S Karthik Samak
+Location  : Bengaluru, India
+Degree    : B.E. Computer Science & Engineering
+            Minor in AI & Machine Learning — VTU
+CGPA      : 8.6 / 10
+Role      : Full-Stack | Android | Cloud | AI Developer
+Open To   : Internships, Projects, Collaboration
+```
 
-**Current focus areas:**
-- Generative AI & RAG pipelines
-- Cloud-native application development (AWS, GCP, Salesforce)
-- Full-stack web and Android development
+**Currently working on:**
+- Generative AI & RAG pipeline systems
+- Cloud-native apps on AWS, GCP and Salesforce
+- Full-stack web and Android engineering
+
+**Ask me about:**  `Python` · `Kotlin` · `MERN Stack` · `LangChain` · `Salesforce`
 
 <br clear="right"/>
 
----
-
-<!--──────────────────── EXPERIENCE ────────────────────-->
-## Experience
-
-<table>
-<tr>
-<td width="12px" style="background:#00ffaa;padding:0">&nbsp;</td>
-<td>
-
-**Salesforce Virtual Intern** &nbsp;&middot;&nbsp; SURE Trust
 <br/>
-`Mar 2026 – Present`
-
-- Completed hands-on Salesforce Administration, Data Modelling, Security, and Automation training through Trailhead modules and practical CRM exercises.
-- Applied Flow Automation, Reports & Dashboards, and Lightning Experience to streamline business process automation workflows.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="12px" style="background:#7F52FF;padding:0">&nbsp;</td>
-<td>
-
-**Android Developer Intern (GenAI)** &nbsp;&middot;&nbsp; Mindmatrix &nbsp;&middot;&nbsp; Bengaluru, India
-<br/>
-`Nov 2025 – Mar 2026`
-
-- Developed a native Android application using Kotlin and Generative AI (LLMs), automating content workflows and boosting user productivity by **30%**.
-- Designed responsive Jetpack Compose interfaces and integrated backend AI services to deliver a seamless, real-time user experience.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="12px" style="background:#61DAFB;padding:0">&nbsp;</td>
-<td>
-
-**Contract Developer** &nbsp;&middot;&nbsp; Handshake AI
-
-- Designed, developed, and maintained scalable web applications using MongoDB, Express.js, React.js, and Node.js (MERN stack).
-- Built responsive user interfaces and integrated RESTful APIs with secure authentication and authorization.
-- Collaborated with product, design, and engineering teams using Git-based workflows and CI/CD pipelines to ship AI-powered products.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="12px" style="background:#FF9900;padding:0">&nbsp;</td>
-<td>
-
-**WordPress Developer** &nbsp;&middot;&nbsp; Vanillakart
-<br/>
-`Aug 2024 – Dec 2024`
-
-- Designed, developed, and customized responsive WordPress websites using themes, plugins, PHP, HTML, CSS, and JavaScript.
-- Implemented security and SEO best practices, integrated third-party tools, and ensured cross-browser and mobile compatibility.
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!--──────────────────── PROJECTS ────────────────────-->
-## Academic Projects
+<!-- ████████████████ SKILLS — ICON GRID ████████████████ -->
 
-<details>
-<summary><strong>AI-Powered Clinical Knowledge Retrieval System</strong> &nbsp;|&nbsp; Jan 2026 – Mar 2026</summary>
-<br/>
-
-**Tech Stack:** `Python` `Flask` `LangChain` `Pinecone` `Groq` `Llama-3`
-
-- Developed a Retrieval-Augmented Generation (RAG) system to query **4,000+** pages of medical knowledge using semantic search.
-- Integrated Pinecone vector database and Groq Llama-3 to deliver accurate, low-latency AI-powered responses.
-
-</details>
-
-<details>
-<summary><strong>Automated Developer Competency Profiling Engine</strong> &nbsp;|&nbsp; Apr 2026 – Jun 2026</summary>
-<br/>
-
-**Tech Stack:** `Python` `Flask` `GitHub API` `MongoDB` `LLM`
-
-- Developed a platform that analyzes GitHub repositories to extract programming languages, frameworks, and developer activity using the GitHub API.
-- Generated AI-assisted competency reports by evaluating repositories and technical skills to support developer assessment and hiring.
-
-</details>
-
----
-
-<!--──────────────────── TECH STACK ────────────────────-->
 ## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,js,c,php,latex,powershell&perline=8)](https://skillicons.dev)
 
-**Cloud & Platforms**
+**Frameworks & Platforms**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask,django,flutter,vite,wordpress&perline=8)](https://skillicons.dev)
 
-**Frameworks & Libraries**
+**Cloud & DevOps**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,git,github,linux&perline=8)](https://skillicons.dev)
 
-**Databases**
+**Databases & Tools**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,blender,figma,vscode,androidstudio,postman&perline=8)](https://skillicons.dev)
 
-**AI / Data**
+**AI / Data Science**
 
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8)](https://skillicons.dev)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-<!--──────────────────── GITHUB STATS ────────────────────-->
+<!-- ████████████████ EXPERIENCE ████████████████ -->
+
+## Experience
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500"/>
+</div>
+
+<br/>
+
+### Salesforce Virtual Intern — SURE Trust
+`Mar 2026 – Present` &nbsp;|&nbsp; Remote
+
+| | |
+|---|---|
+| **CRM & Admin** | Salesforce Administration, Data Modelling, Security, Automation via Trailhead |
+| **Automation** | Flow Automation, Reports & Dashboards, Lightning Experience |
+| **Outcome** | Streamlined business process automation workflows end-to-end |
+
+---
+
+### Android Developer Intern (GenAI) — Mindmatrix
+`Nov 2025 – Mar 2026` &nbsp;|&nbsp; Bengaluru, India
+
+| | |
+|---|---|
+| **Stack** | Kotlin, Jetpack Compose, Generative AI (LLMs), Backend AI Services |
+| **Impact** | Boosted user productivity by **30%** through workflow automation |
+| **Delivery** | Seamless, real-time UX with responsive Compose UI |
+
+---
+
+### Contract Developer — Handshake AI
+
+| | |
+|---|---|
+| **Stack** | MongoDB, Express.js, React.js, Node.js (MERN), RESTful APIs |
+| **Focus** | Scalable web applications, secure auth, AI-powered product delivery |
+| **Process** | Git-based workflows, CI/CD, cross-functional team collaboration |
+
+---
+
+### WordPress Developer — Vanillakart
+`Aug 2024 – Dec 2024`
+
+| | |
+|---|---|
+| **Stack** | WordPress, PHP, HTML, CSS, JavaScript, Plugins & Themes |
+| **Scope** | Responsive sites, SEO, security hardening, cross-browser compatibility |
+
+<br/>
+
+---
+
+<!-- ████████████████ PROJECTS ████████████████ -->
+
+## Projects
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
+</div>
+
+<br/>
+
+<details>
+<summary><b>AI-Powered Clinical Knowledge Retrieval System</b> &nbsp;|&nbsp; Jan 2026 – Mar 2026</summary>
+<br/>
+
+> **Stack:** `Python` · `Flask` · `LangChain` · `Pinecone` · `Groq` · `Llama-3`
+
+- Built a **Retrieval-Augmented Generation (RAG)** system querying **4,000+** pages of medical knowledge via semantic search.
+- Integrated **Pinecone** vector database + **Groq Llama-3** for accurate, low-latency AI responses.
+- Reduced knowledge retrieval time significantly compared to traditional keyword search.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Automated Developer Competency Profiling Engine</b> &nbsp;|&nbsp; Apr 2026 – Jun 2026</summary>
+<br/>
+
+> **Stack:** `Python` · `Flask` · `GitHub API` · `MongoDB` · `LLM`
+
+- Analyzes GitHub repositories to extract languages, frameworks, and developer activity using the **GitHub API**.
+- Generates **AI-assisted competency reports** evaluating technical skills for developer assessment and hiring.
+- Designed to support scalable evaluation pipelines for engineering recruitment.
+
+</details>
+
+<br/>
+
+---
+
+<!-- ████████████████ GITHUB STATS ████████████████ -->
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthiksamak-git&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=450" height="175px"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksamak-git&theme=radical&hide_border=true&layout=compact&langs_count=10&card_width=350" height="175px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karthiksamak-git&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&card_width=440" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksamak-git&theme=radical&hide_border=true&layout=compact&langs_count=10&card_width=340" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=karthiksamak-git&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=karthiksamak-git&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&ring=00ffaa&fire=ff6b6b&currStreakLabel=00ffaa" width="65%"/>
 
 </div>
 
+<br/>
+
 ---
 
-<!--──────────────────── HEATMAP ────────────────────-->
+<!-- ████████████████ HEATMAP ████████████████ -->
+
 ## Heatmap
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00ffaa/karthiksamak-git" alt="GitHub contribution chart" width="100%"/>
+<img src="https://ghchart.rshah.org/00ffaa/karthiksamak-git" alt="Contribution Heatmap" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&theme=react-dark&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&area_color=003322&hide_border=true&radius=8&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&theme=react-dark&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&area_color=003322&hide_border=true&radius=8&custom_title=Contribution%20Activity%20Graph" width="100%"/>
 
 </div>
 
+<br/>
+
 ---
 
-<!--──────────────────── TROPHIES ────────────────────-->
+<!-- ████████████████ TROPHIES ████████████████ -->
+
 ## Trophies
 
 <div align="center">
@@ -240,38 +240,37 @@ Passionate about DevOps, cloud computing, generative AI, and modern software arc
 
 </div>
 
+<br/>
+
 ---
 
-<!--──────────────────── EDUCATION ────────────────────-->
+<!-- ████████████████ EDUCATION ████████████████ -->
+
 ## Education
 
-<table width="100%">
-<tr>
-<th align="left">Institution</th>
-<th align="left">Qualification</th>
-<th align="left">Score</th>
-</tr>
-<tr>
-<td><strong>Visvesvaraya Technological University</strong>, India</td>
-<td>B.E. – Computer Science & Engineering<br/><em>Minor in Artificial Intelligence & Machine Learning</em></td>
-<td><strong>GPA: 8.6</strong></td>
-</tr>
-<tr>
-<td><strong>Govt PU College, Sagara</strong>, India</td>
-<td>Pre-University Course (PUC)</td>
-<td><strong>87%</strong></td>
-</tr>
-</table>
+<div align="center">
+
+| Institution | Qualification | Score |
+|:---|:---|:---:|
+| **Visvesvaraya Technological University**, India | B.E. – Computer Science & Engineering · Minor in AI & ML | **GPA: 8.6** |
+| **Govt PU College, Sagara**, India | Pre-University Course (PUC) | **87%** |
+
+</div>
+
+<br/>
 
 ---
 
-<!--──────────────────── ACHIEVEMENTS ────────────────────-->
+<!-- ████████████████ ACHIEVEMENTS ████████████████ -->
+
 ## Achievements & Certifications
 
+<div align="center">
+
 | Certification / Achievement |
-|---|
+|:---|
 | Karnataka State Level Hackathon — CRCE |
-| Coursera: Data Processing using Python, Introduction to Data Analytics |
+| Coursera: Data Processing using Python · Introduction to Data Analytics |
 | Google Cloud Computing Foundations Certificate |
 | Salesforce Trailblazer Certification |
 | Oracle: Generative AI Professional — OCI 2025 Certified AI Foundations Associate |
@@ -279,10 +278,13 @@ Passionate about DevOps, cloud computing, generative AI, and modern software arc
 | NPTEL: Programming in Java |
 | Minor Degree in Artificial Intelligence & Machine Learning (Ongoing) |
 
+</div>
+
+<br/>
+
 ---
 
-<!--──────────────────── QUOTE ────────────────────-->
-## Random Dev Quote
+<!-- ████████████████ QUOTE ████████████████ -->
 
 <div align="center">
 
@@ -290,20 +292,12 @@ Passionate about DevOps, cloud computing, generative AI, and modern software arc
 
 </div>
 
----
-
-<!--──────────────────── TOP REPOS ────────────────────-->
-## Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=karthiksamak-git&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="70%"/>
-
-</div>
+<br/>
 
 ---
 
-<!--──────────────────── SNAKE ────────────────────-->
+<!-- ████████████████ SNAKE ████████████████ -->
+
 ## Contribution Snake
 
 <div align="center">
@@ -311,32 +305,38 @@ Passionate about DevOps, cloud computing, generative AI, and modern software arc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthiksamak-git/karthiksamak-git/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthiksamak-git/karthiksamak-git/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-<!--──────────────────── SOCIALS ────────────────────-->
-## Connect
+<!-- ████████████████ CONNECT ████████████████ -->
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthik_samak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-samak)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiksamak-git)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nskarthiksamak@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nskarthiksamak@gmail.com)
 
 </div>
 
+<br/>
+
 ---
 
-<!--──────────────────── FOOTER ────────────────────-->
+<!-- ████████████████ FOOTER ████████████████ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
-*Built with passion by N S Karthik Samak*
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:00ffaa,100:0d1117&height=130&section=footer&animation=twinkling"/>
 
 </div>

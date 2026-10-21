@@ -1,31 +1,25 @@
 <div align="center">
 
-<!-- ████████████████ ANIMATED BANNER ████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ffaa,100:00bcd4&height=230&section=header&text=N%20S%20Karthik%20Samak&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Cloud%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=19&descColor=00ffaa"/>
+<!-- ══════════════════════════════════════════════ HERO BANNER ══════════════════════════════════════════════ -->
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,40:243b55,100:00ffaa&height=240&section=header&text=N%20S%20Karthik%20Samak&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Science%20%7C%20AI%20%7C%20Cloud%20%7C%20Full-Stack%20Engineer&descAlignY=62&descSize=18&descColor=aaffdd"/>
 
-<!-- ████████████████ TYPING ANIMATION ████████████████ -->
-<div align="center">
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00FFAA&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Full-Stack+Web+%26+Android+Developer+%F0%9F%93%B1;Salesforce+%26+Cloud+Platform+Engineer+%E2%98%81%EF%B8%8F;RAG+%7C+LLM+%7C+Vector+DB+Practitioner+%F0%9F%A7%A0;Code.+Build.+Ship.+Repeat.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=600&color=00FFAA&center=true&vCenter=true&multiline=false&width=800&lines=Building+AI-Powered+Applications;Full-Stack+Web+%26+Android+Developer;Salesforce+%26+Cloud+Platform+Engineer;RAG+%7C+LLM+%7C+Vector+DB+Practitioner;Code.+Build.+Ship.+Repeat.)](https://git.io/typing-svg)
-
-</div>
-
-<!-- ████████████████ BADGES ROW ████████████████ -->
-<div align="center">
 <br/>
 
+<!-- CONTACT BADGES -->
 [![Email](https://img.shields.io/badge/Gmail-nskarthiksamak-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nskarthiksamak@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karthik--samak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-samak)
 [![GitHub](https://img.shields.io/badge/GitHub-karthiksamak--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiksamak-git)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--9980877029-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919980877029)
+[![Phone](https://img.shields.io/badge/%2B91--9980877029-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919980877029)
 
 <br/>
 
+<!-- METRICS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=karthiksamak-git&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/karthiksamak-git?style=for-the-badge&color=00ffaa&labelColor=0d1117&label=FOLLOWERS)](https://github.com/karthiksamak-git)
-[![GitHub Stars](https://img.shields.io/github/stars/karthiksamak-git?style=for-the-badge&color=00ffaa&labelColor=0d1117&label=STARS)](https://github.com/karthiksamak-git)
+[![Followers](https://img.shields.io/github/followers/karthiksamak-git?style=for-the-badge&color=00ffaa&labelColor=0d1117&label=FOLLOWERS)](https://github.com/karthiksamak-git)
 
 </div>
 
@@ -33,36 +27,39 @@
 
 ---
 
-<!-- ████████████████ ABOUT ME + GIF ████████████████ -->
+<!-- ══════════════════════════════════════════════ ABOUT ══════════════════════════════════════════════ -->
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
-### About Me
+## About Me
 
 ```yaml
-Name      : N S Karthik Samak
-Location  : Bengaluru, India
-Degree    : B.E. Computer Science & Engineering
-            Minor in AI & Machine Learning — VTU
-CGPA      : 8.6 / 10
-Role      : Full-Stack | Android | Cloud | AI Developer
-Open To   : Internships, Projects, Collaboration
+Name     : N S Karthik Samak
+Location : Bengaluru, India
+Degree   : B.E. Computer Science & Engineering (VTU)
+           Minor in Artificial Intelligence & Machine Learning
+CGPA     : 8.6 / 10
+Status   : Final Year Undergraduate
+Role     : Full-Stack | Android | Cloud | AI Developer
+Open To  : Internships · Projects · Collaboration
 ```
 
-**Currently working on:**
-- Generative AI & RAG pipeline systems
-- Cloud-native apps on AWS, GCP and Salesforce
-- Full-stack web and Android engineering
+**What I build:**
 
-**Ask me about:**  `Python` · `Kotlin` · `MERN Stack` · `LangChain` · `Salesforce`
-
-<br clear="right"/>
+| Domain | Focus |
+|---|---|
+| **Generative AI** | RAG pipelines, LLM integration, Vector DBs |
+| **Cloud** | AWS, GCP, Salesforce platform engineering |
+| **Full-Stack Web** | MERN stack, Flask, Django, REST APIs |
+| **Android** | Kotlin, Jetpack Compose, GenAI-powered apps |
 
 <br/>
 
 ---
 
-<!-- ████████████████ SKILLS — ICON GRID ████████████████ -->
+<!-- ══════════════════════════════════════════════ TECH STACK ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
 ## Tech Stack
 
@@ -70,27 +67,28 @@ Open To   : Internships, Projects, Collaboration
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,js,c,php,latex,powershell&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,kotlin,js,c,php,latex,powershell&perline=8)](https://skillicons.dev)
 
-**Frameworks & Platforms**
+**Frameworks & Libraries**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,flask,django,flutter,vite,wordpress&perline=8)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,flask,django,flutter,vite,wordpress&perline=8)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,git,github,linux&perline=8)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,git,github,linux&perline=8)](https://skillicons.dev)
 
 **Databases & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,blender,figma,vscode,androidstudio,postman&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mongodb,mysql,androidstudio,vscode,figma,blender,postman,idea&perline=8)](https://skillicons.dev)
 
 **AI / Data Science**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8)](https://skillicons.dev)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF4500?style=for-the-badge)
 
 </div>
 
@@ -98,93 +96,82 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ EXPERIENCE ████████████████ -->
+<!-- ══════════════════════════════════════════════ EXPERIENCE ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
 ## Experience
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500"/>
-</div>
-
-<br/>
-
 ### Salesforce Virtual Intern — SURE Trust
-`Mar 2026 – Present` &nbsp;|&nbsp; Remote
+![Duration](https://img.shields.io/badge/Mar%202026%20–%20Present-00ffaa?style=flat-square&labelColor=0d1117)
+![Mode](https://img.shields.io/badge/Remote-00ffaa?style=flat-square&labelColor=0d1117)
 
-| | |
-|---|---|
-| **CRM & Admin** | Salesforce Administration, Data Modelling, Security, Automation via Trailhead |
-| **Automation** | Flow Automation, Reports & Dashboards, Lightning Experience |
-| **Outcome** | Streamlined business process automation workflows end-to-end |
+- Completed hands-on **Salesforce Administration**, Data Modelling, Security, and Automation via Trailhead.
+- Applied **Flow Automation**, Reports & Dashboards, and Lightning Experience to streamline business process workflows.
 
 ---
 
 ### Android Developer Intern (GenAI) — Mindmatrix
-`Nov 2025 – Mar 2026` &nbsp;|&nbsp; Bengaluru, India
+![Duration](https://img.shields.io/badge/Nov%202025%20–%20Mar%202026-7F52FF?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Bengaluru%2C%20India-7F52FF?style=flat-square&labelColor=0d1117)
 
-| | |
-|---|---|
-| **Stack** | Kotlin, Jetpack Compose, Generative AI (LLMs), Backend AI Services |
-| **Impact** | Boosted user productivity by **30%** through workflow automation |
-| **Delivery** | Seamless, real-time UX with responsive Compose UI |
+- Built a native **Android app using Kotlin + Generative AI (LLMs)** automating content workflows — boosted productivity by **30%**.
+- Designed responsive **Jetpack Compose** interfaces integrated with backend AI services.
 
 ---
 
 ### Contract Developer — Handshake AI
+![Stack](https://img.shields.io/badge/MERN%20Stack-61DAFB?style=flat-square&labelColor=0d1117)
 
-| | |
-|---|---|
-| **Stack** | MongoDB, Express.js, React.js, Node.js (MERN), RESTful APIs |
-| **Focus** | Scalable web applications, secure auth, AI-powered product delivery |
-| **Process** | Git-based workflows, CI/CD, cross-functional team collaboration |
+- Built scalable web apps using **MongoDB, Express.js, React.js, Node.js**.
+- Integrated RESTful APIs with secure auth & CI/CD pipelines to ship AI-powered products.
 
 ---
 
 ### WordPress Developer — Vanillakart
-`Aug 2024 – Dec 2024`
+![Duration](https://img.shields.io/badge/Aug%202024%20–%20Dec%202024-FF9900?style=flat-square&labelColor=0d1117)
 
-| | |
-|---|---|
-| **Stack** | WordPress, PHP, HTML, CSS, JavaScript, Plugins & Themes |
-| **Scope** | Responsive sites, SEO, security hardening, cross-browser compatibility |
+- Developed responsive **WordPress websites** with PHP, HTML, CSS, JS, and plugins.
+- Applied SEO, security best practices, and ensured cross-browser compatibility.
 
 <br/>
 
 ---
 
-<!-- ████████████████ PROJECTS ████████████████ -->
+<!-- ══════════════════════════════════════════════ PROJECTS ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
 ## Projects
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
-</div>
-
-<br/>
-
 <details>
-<summary><b>AI-Powered Clinical Knowledge Retrieval System</b> &nbsp;|&nbsp; Jan 2026 – Mar 2026</summary>
+<summary><b>AI-Powered Clinical Knowledge Retrieval System</b> &nbsp;|&nbsp; Jan – Mar 2026</summary>
 <br/>
 
-> **Stack:** `Python` · `Flask` · `LangChain` · `Pinecone` · `Groq` · `Llama-3`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-FF4500?style=for-the-badge)
 
 - Built a **Retrieval-Augmented Generation (RAG)** system querying **4,000+** pages of medical knowledge via semantic search.
-- Integrated **Pinecone** vector database + **Groq Llama-3** for accurate, low-latency AI responses.
-- Reduced knowledge retrieval time significantly compared to traditional keyword search.
+- Used **Pinecone** vector database + **Groq Llama-3** for accurate, low-latency AI responses.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>Automated Developer Competency Profiling Engine</b> &nbsp;|&nbsp; Apr 2026 – Jun 2026</summary>
+<summary><b>Automated Developer Competency Profiling Engine</b> &nbsp;|&nbsp; Apr – Jun 2026</summary>
 <br/>
 
-> **Stack:** `Python` · `Flask` · `GitHub API` · `MongoDB` · `LLM`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Analyzes GitHub repositories to extract languages, frameworks, and developer activity using the **GitHub API**.
-- Generates **AI-assisted competency reports** evaluating technical skills for developer assessment and hiring.
-- Designed to support scalable evaluation pipelines for engineering recruitment.
+- Platform that analyzes **GitHub repositories** to extract languages, frameworks, and developer activity.
+- Generates **AI-assisted competency reports** to support developer assessment and hiring pipelines.
 
 </details>
 
@@ -192,19 +179,21 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ GITHUB STATS ████████████████ -->
+<!-- ══════════════════════════════════════════════ GITHUB STATS ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthiksamak-git&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&card_width=440" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksamak-git&theme=radical&hide_border=true&layout=compact&langs_count=10&card_width=340" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karthiksamak-git&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile" height="195px"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksamak-git&theme=radical&hide_border=true&layout=compact&langs_count=10" height="195px"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=karthiksamak-git&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&ring=00ffaa&fire=ff6b6b&currStreakLabel=00ffaa" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=karthiksamak-git&theme=radical&hide_border=true&border_radius=8&ring=00ffaa&fire=ff6b6b&currStreakLabel=00ffaa&sideLabels=00ffaa" width="65%"/>
 
 </div>
 
@@ -212,17 +201,36 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ HEATMAP ████████████████ -->
+<!-- ══════════════════════════════════════════════ HEATMAP ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,50:ffd93d,100:00ffaa&height=4"/>
 
 ## Heatmap
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00ffaa/karthiksamak-git" alt="Contribution Heatmap" width="100%"/>
+<!-- Row 1: Colourful contribution calendar (orange-fire palette) -->
+<img src="https://ghchart.rshah.org/ff6b6b/karthiksamak-git" alt="Contribution Heatmap – Fire" width="48%"/>
+&nbsp;
+<img src="https://ghchart.rshah.org/a29bfe/karthiksamak-git" alt="Contribution Heatmap – Purple" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&theme=react-dark&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&area_color=003322&hide_border=true&radius=8&custom_title=Contribution%20Activity%20Graph" width="100%"/>
+<!-- Row 2: Tokyo Night neon activity graph -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:a29bfe&height=30&text=Tokyo+Night+Activity&fontSize=13&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&theme=tokyo-night&hide_border=true&radius=8&custom_title=Contribution+Activity+%E2%80%93+Tokyo+Night" width="100%"/>
+
+<br/>
+
+<!-- Row 3: Dracula vivid activity graph -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:282a36,100:ff79c6&height=30&text=Dracula+Activity&fontSize=13&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&theme=dracula&hide_border=true&radius=8&custom_title=Contribution+Activity+%E2%80%93+Dracula" width="100%"/>
+
+<br/>
+
+<!-- Row 4: Custom neon activity graph -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:ff9f43&height=30&text=Neon+Activity&fontSize=13&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksamak-git&bg_color=0d1117&color=ffd93d&line=ff9f43&point=ff6b6b&area=true&area_color=1a0a00&hide_border=true&radius=8&custom_title=Contribution+Activity+%E2%80%93+Neon+Sunset" width="100%"/>
 
 </div>
 
@@ -230,13 +238,15 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ TROPHIES ████████████████ -->
+<!-- ══════════════════════════════════════════════ TROPHIES ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
 ## Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karthiksamak-git&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karthiksamak-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
@@ -244,7 +254,9 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ EDUCATION ████████████████ -->
+<!-- ══════════════════════════════════════════════ EDUCATION ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
 ## Education
 
@@ -252,7 +264,7 @@ Open To   : Internships, Projects, Collaboration
 
 | Institution | Qualification | Score |
 |:---|:---|:---:|
-| **Visvesvaraya Technological University**, India | B.E. – Computer Science & Engineering · Minor in AI & ML | **GPA: 8.6** |
+| **Visvesvaraya Technological University**, India | B.E. – Computer Science & Engineering · Minor: AI & ML | **GPA: 8.6** |
 | **Govt PU College, Sagara**, India | Pre-University Course (PUC) | **87%** |
 
 </div>
@@ -261,22 +273,22 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ ACHIEVEMENTS ████████████████ -->
+<!-- ══════════════════════════════════════════════ CERTIFICATIONS ══════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:00ffaa&height=4"/>
 
 ## Achievements & Certifications
 
 <div align="center">
 
-| Certification / Achievement |
-|:---|
-| Karnataka State Level Hackathon — CRCE |
-| Coursera: Data Processing using Python · Introduction to Data Analytics |
-| Google Cloud Computing Foundations Certificate |
-| Salesforce Trailblazer Certification |
-| Oracle: Generative AI Professional — OCI 2025 Certified AI Foundations Associate |
-| AWS Academy Cloud Developing |
-| NPTEL: Programming in Java |
-| Minor Degree in Artificial Intelligence & Machine Learning (Ongoing) |
+![Hackathon](https://img.shields.io/badge/Karnataka%20State%20Level%20Hackathon-CRCE-00ffaa?style=for-the-badge&labelColor=0d1117)
+![Coursera](https://img.shields.io/badge/Coursera-Data%20Processing%20%26%20Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Google](https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-GenAI%20Professional%20%7C%20OCI%202025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Academy-Cloud%20Developing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=for-the-badge)
+![AI Minor](https://img.shields.io/badge/Minor%20Degree-AI%20%26%20ML%20(Ongoing)-7F52FF?style=for-the-badge)
 
 </div>
 
@@ -284,7 +296,7 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ QUOTE ████████████████ -->
+<!-- ══════════════════════════════════════════════ QUOTE ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -296,25 +308,7 @@ Open To   : Internships, Projects, Collaboration
 
 ---
 
-<!-- ████████████████ SNAKE ████████████████ -->
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthiksamak-git/karthiksamak-git/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthiksamak-git/karthiksamak-git/output/github-snake.svg"/>
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████ CONNECT ████████████████ -->
+<!-- ══════════════════════════════════════════════ CONNECT ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -323,20 +317,9 @@ Open To   : Internships, Projects, Collaboration
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiksamak-git)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nskarthiksamak@gmail.com)
 
-</div>
-
 <br/>
 
----
-
-<!-- ████████████████ FOOTER ████████████████ -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:00ffaa,100:0d1117&height=130&section=footer&animation=twinkling"/>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,50:243b55,100:141e30&height=130&section=footer&animation=twinkling"/>
 
 </div>
